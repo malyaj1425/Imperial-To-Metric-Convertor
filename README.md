@@ -15,7 +15,8 @@ To convert Imperial system of measurement units to Metric system Units
 # Design
 
 
-![Android Emulator - Pixel_5_API_28_5554 1_9_2022 8_06_17 PM](https://user-images.githubusercontent.com/78131299/148687080-e9ce535d-eede-44e0-893f-114bf25def9b.png)
+https://user-images.githubusercontent.com/78131299/148687865-94d56937-6828-4a5d-a9ff-f049af783787.mp4
 
-![Android Emulator - Pixel_5_API_28_5554 1_9_2022 8_06_31 PM](https://user-images.githubusercontent.com/78131299/148687093-cae080dc-f687-41a0-8863-1228735a4df2.png)
+![Android Emulator - Pixel_5_API_28_5554 1_9_2022 8_28_57 PM](https://user-images.githubusercontent.com/78131299/148687867-e5463aaa-1771-46e9-b6c1-1875db81c23a.png)
 
+![Android Emulator - Pixel_5_API_28_5554 1_9_2022 8_29_04 PM](https://user-images.githubusercontent.com/78131299/148687869-5f07daf0-864e-49ee-a89d-07c29e6ebdc1.png)
